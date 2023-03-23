@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * _ab - Computes the
+* _abs - Computes the
  * @c: the num
  * Return: 1
  */
 
-int _ab(int c)
+int _abs(int c)
 {
 	if (c < 0)
 	{
